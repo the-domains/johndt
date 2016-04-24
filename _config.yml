@@ -1,0 +1,28 @@
+name: johndt
+favicon: null
+layout_spectrum: 0.21236794022843242
+typography_spectrum: 0.8151735521387309
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.5787135132122785
+  lightness: 0.2724175623152405
+  saturation: 0.8045792628545314
+  rhythmicContrast: 0.3896345696412027
+purpose: []
