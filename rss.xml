@@ -4,8 +4,15 @@
         <description><![CDATA[johndt]]></description>
         <link>https://thegrid.ai/johndt/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 16 Jul 2016 14:04:49 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Jul 2016 14:10:42 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/johndt/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/79ec5deb-186d-48f6-929d-b8abdec60049.jpg">]]></description>
+            <link>https://thegrid.ai/johndt/test-posting-a-picture/index.html</link>
+            <guid isPermaLink="false">9f16fad5-70a0-49c9-8d4d-cc5ff98fa1f9</guid>
+            <pubDate>Sat, 16 Jul 2016 14:09:43 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Super cool drone: https://www.lily.camera/</p>]]></description>
